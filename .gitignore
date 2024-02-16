@@ -1,0 +1,7 @@
+/faiss_db/
+/pdfs/
+venv
+!/pdfs/.gitinclude
+*.pdf
+.env
+.idea
